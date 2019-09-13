@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace Check1 {
     class Program {
         static void Main(string[] args) {
+
+
+            Console.WriteLine("First GIT");
         }
     }
 }
